@@ -48,7 +48,6 @@ body {
 
 fieldset {
     border: 1px solid #e2e8f0;
-    /* Ajout de la bordure rouge épaisse à gauche */
     border-left: 4px solid #e63946;
     border-radius: 8px;
     padding: 20px;
